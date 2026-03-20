@@ -1,7 +1,7 @@
 # 🩺 Diabetes Diagnosis Prediction — Machine Learning Project
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GnRL7nNetQY1xAmOmMLOzpoLEjBwMY2j?usp=sharing)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prettymuna.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diabetes-diagnosis-prediction.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange?logo=scikit-learn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
